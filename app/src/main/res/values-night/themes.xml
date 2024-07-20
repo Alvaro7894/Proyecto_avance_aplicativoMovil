@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FirebaseDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!-- Color de la barra de estado sera blanco, aqui se muestra el nivel de bateria, la hora y notificaciones -->
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>

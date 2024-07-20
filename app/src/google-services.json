@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492673050633",
+    "project_id": "login-register-e7287",
+    "storage_bucket": "login-register-e7287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492673050633:android:e4ef46e593e4fff7bf70d8",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_ejLl87kEdyROZx8kfXltqwHQ-WMrV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492673050633:android:8f8d8c703280f8d7bf70d8",
+        "android_client_info": {
+          "package_name": "com.example.login_register_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_ejLl87kEdyROZx8kfXltqwHQ-WMrV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase Demo</string>
+    <string name="texto_de_introduccion">¡Hola! Prepárate para responder algunas preguntas interesantes. ¿Listo para comenzar?</string>
+    <string name="mensaje_subliminal">¡No te preocupes! Aveces suele suceder. Porfavor ingrese la direccion de correo electronico asociado a su cuenta.</string>
+    <string name="despues_de_enviar_msg">Revise su buzon de correo, recibira un correo electronico con un enlace donde podra restablecer su contraseña.</string>
+
+    <string name="default_web_client_id" translatable="false">YOUR_DEFAULT_WEB_CLIENT_ID</string>
+
+</resources>
